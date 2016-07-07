@@ -1,0 +1,12 @@
+" 去除VI一致性，必须
+set nocompatible
+" 必须
+filetype off
+
+" 加载bundles配置
+if filereadable(expand("~/.vimrc.bundles"))
+  source ~/.vimrc.bundles
+endif
+
+" 加载vim自带和插件响应的语法和文件类型相关脚本
+filetype plugin indent on 
