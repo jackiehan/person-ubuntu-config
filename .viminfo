@@ -130,7 +130,7 @@ $ v1.36
 # Registers:
 "0	CHAR	0
 	6. 111(centos:6.5):虚拟机镜像，以后创建centos:6.5的虚拟机可以直接克隆
-""1	LINE	0
+"1	LINE	0
 	.The
 "2	LINE	0
 																				        "\345\267\245\344\275\234\346\226\207\346\241\243.zip"
@@ -152,22 +152,28 @@ $ v1.36
 "9	CHAR	0
 	
 	   
-"-	CHAR	0
-	/
+""-	CHAR	0
+	： 
 
 # File marks:
-'0  54  9  ~/.gitignore
-'1  64  10  ~/.gitignore
-'2  49  13  ~/.gitignore
-'3  1  0  ~/.bashrc
-'4  185  0  ~/.bashrc~
-'5  7  10  ~/.gitignore
-'6  1  0  ~/.Xauthority
-'7  2  12  ~/.gitignore
-'8  1  0  ~/.ICEauthority
-'9  1  0  ~/.scala_history
+'0  1578  1  ~/.viminfo
+'1  7  67  ~/urls.md
+'2  54  9  ~/.gitignore
+'3  64  10  ~/.gitignore
+'4  49  13  ~/.gitignore
+'5  1  0  ~/.bashrc
+'6  185  0  ~/.bashrc~
+'7  7  10  ~/.gitignore
+'8  1  0  ~/.Xauthority
+'9  2  12  ~/.gitignore
 
 # Jumplist (newest first):
+-'  1578  1  ~/.viminfo
+-'  31  0  ~/.viminfo
+-'  7  67  ~/urls.md
+-'  5  21  ~/urls.md
+-'  2  0  ~/urls.md
+-'  1  0  ~/urls.md
 -'  54  9  ~/.gitignore
 -'  64  10  ~/.gitignore
 -'  49  13  ~/.gitignore
@@ -221,7 +227,6 @@ $ v1.36
 -'  5  7  ~/.vimrc.bundles
 -'  8  3  ~/.vimrc
 -'  137  0  ~/.vimrc.bak
--'  31  0  ~/.viminfo
 -'  1  0  ~/.viminfo
 -'  1550  1  ~/.viminfo
 -'  1560  1  ~/.viminfo
@@ -260,15 +265,32 @@ $ v1.36
 -'  5  0  ~/learn/golang/packages.go
 -'  7  0  ~/learn/golang/sandbox.go
 -'  5  0  ~/learn/golang/sandbox.go
--'  2  12  ~/learn/golang/sandbox.go
--'  9  36  ~/learn/golang/sandbox.go
--'  126  1  ~/.bashrc
--'  1  0  ~/bashrc
--'  6  26  ~/learn/golang/hello.go
--'  1  0  ~/learn/golang/hello.go
--'  48279  0  ~/Downloads/t_region.sql
+-'  7  67  ~/urls.md
 
 # History of marks within files (newest to oldest):
+
+> ~/.viminfo
+	"	1578	1
+
+> ~/urls.md
+	"	7	67
+	^	7	68
+	.	7	67
+	+	1	65
+	+	2	82
+	+	3	73
+	+	4	79
+	+	5	61
+	+	5	0
+	+	6	48
+	+	7	66
+	+	1	66
+	+	2	83
+	+	3	74
+	+	4	80
+	+	5	62
+	+	6	49
+	+	7	67
 
 > ~/.gitignore
 	"	54	9
@@ -712,9 +734,6 @@ $ v1.36
 
 > ~/.vimrc.bak
 	"	15	14
-
-> ~/.viminfo
-	"	31	0
 
 > ~/.vim/doc/tags
 	"	5	0
@@ -1559,6 +1578,3 @@ $ v1.36
 
 > ~/idea/golf/src/pom.xml
 	"	43	8
-
-> ~/cloudtop/docs/README.md
-	"	1	0
